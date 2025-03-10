@@ -1,0 +1,18 @@
+{
+  "name": "section03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.17.19",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3",
+    "undici-types": "^7.3.0"
+  }
+}
